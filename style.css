@@ -18,7 +18,6 @@ h2 {
 h3 {
   text-align: center;
   color: #e0fbfc;
-  margin: 10px;
 }
 h4 {
   text-align: left;
@@ -72,5 +71,5 @@ h4 {
   border: 2px solid #ee6c4d;
 }
 .material-icons {
-  padding-left: 48.5%;
+  padding-left: 49%;
 }
